@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Age: 17<br><br>student: ✅<br><br>OS: Ubuntu <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="20" alt="Windows logo"  /> </h4>
+<h4 align="left">Age: 17<br><br>student: ✅<br><br>OS: Windows / Linux </h4>
 
 ###
 
@@ -23,7 +23,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
