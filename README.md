@@ -51,5 +51,6 @@ I am from Iran, residing in the city of Rasht, located in the Gilan province, an
 ## Contact
 
 - **Email:** rezanoohi7337@gmail.com
+ - **Linkedin** https://www.linkedin.com/in/rezanoohi/
 - **Telegram:** https://t.me/rezanoohi
 - **Instagram:** [rezanger](https://www.instagram.com/rezanger)
