@@ -1,54 +1,55 @@
-<h1 align="left">Hi There!  i'm Reza Noohi 👋</h1>
+# Reza Noohi
 
-###
+**Software Developer | Linux Enthusiast | Flutter Developer**
 
-<h3 align="left">Learning software development 👨‍💻</h3>
 
-###
 
-<h4 align="left">Age: 17<br><br>student: ✅<br><br>OS: Windows / Linux </h4>
+---
 
-###
+## About Me
+I am a software developer passionate about open-source technologies and Linux systems. With experience in **Flutter development**, setting up local and remote servers, and configuring custom Linux environments, I constantly explore innovative solutions and enhance my technical expertise. 
 
-<h1 align="left">Skills && Tools 🧰</h1>
+I am from Iran, residing in the city of Rasht, located in the Gilan province, and I am 18 years old.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="vscode logo"  />
-</div>
+## Skills
 
-###
+- **Programming Languages:** Dart, Python, Bash
+- **Frameworks & Tools:** Flutter, Android Studio, Supabase
+- **Linux Expertise:** Arch Linux, Kernel management, System configuration
+- **Web Development:** HTML, CSS, JS
 
-### I use [Flutter](https://flutter.dev/) for software development 💙
+---
 
-### I also learning [Node JS](https://nodejs.org/) 💚
+## Experience in Flutter 
 
-###
+- Designed and tested mobile applications using Flutter and Dart.
+- Connected Android devices for real-time app testing and debugging.
+- Contributed to app functionality by integrating APIs and backend services.
+- Implemented **Clean Architecture** and followed **clean code principles** and **SOLID principles** to ensure maintainable and scalable codebases.
+- Leveraged state management solutions like **BLoC** and **Provider** for efficient application state handling.
+- Developed advanced **UI designs** with the ability to integrate **animations** to enhance user experience.
 
-<h1 align="left">Links 🔗</h1>
+---
 
-###
+## Education
 
-<div align="left">
-<a href="https://www.instagram.com/dev.rezanoohi?utm_source=qr&igsh=NTRxaXY4bzd4Y3Fw">  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  /></a>
-  <img width="12" />
-<a href="https://www.linkedin.com/in/reza-noohi-6b181a2b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
-</div>
+**Self-Taught Software Developer**
 
-<h1 align="left">Github status 🐈‍⬛</h1>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezanoohi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezanoohi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## Interests
 
-###
+- Mobile app development
+- Open-source contribution
+- Kernel optimization and custom configurations
+- Weight training and fitness
+
+---
+
+## Contact
+
+- **Email:** rezanoohi7337@gmail.com
+- **Telegram:** https://t.me/rezanoohi
+- **Instagram:** [rezanger](https://www.instagram.com/rezanger)
