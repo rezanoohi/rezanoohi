@@ -18,6 +18,6 @@ not just something that works, but something that lasts.
 
 **Tech Stack:**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,postgresql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,postgresql,python,linux)](https://skillicons.dev)
 
 > Previously worked with Flutter for software development.
