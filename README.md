@@ -11,8 +11,8 @@ not just something that works, but something that lasts.
 
 **What I do:**
 - REST API design & development
-- Database modeling & query optimization (PostgreSQL)
-- Authentication & authorization (JWT)
+- Database modeling & query optimization
+- Authentication & authorization
 - Linux server setup & deployment
 - Writing clear documentation for every project
 
